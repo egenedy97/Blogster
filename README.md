@@ -1,2 +1,3 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# Blogster
+Built by using nodejs and react 
+
